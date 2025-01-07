@@ -1,0 +1,505 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Search><pages Count="12"><page Index="1"><![CDATA[Ecuaciones y su resolución
+
+
+
+
+
+
+
+                                                                              Una ecuación es una igualdad entre dos expresiones conteniendo uno o
+                                                                              más valores desconocidos. Las expresiones que aparecen a ambos
+
+                                                                              lados del símbolo = (igual) se llaman miembros de la ecuación.]]></page><page Index="2"><![CDATA[El rol de las letras en matemáticas
+
+
+
+
+
+
+                                                       Diversidad de roles
+
+
+
+
+                                                       El rol que cumplen las letras en la matemática es diverso. No siempre las letras representan
+                                                       cantidades desconocidas, variables o indeterminadas. A veces representan constantes,
+
+                                                       cantidades conocidas, parámetros, etc.
+
+
+
+
+
+
+                                                       Ejemplos
+
+
+
+
+
+                                                         1      2x - 1/2 x= 84                                  2      x2 - 1/2 x + 3 = π
+
+
+
+
+
+
+
+
+                                                         3      √x + 2 - y = 4y - w                             4      √[((z+3)² - √z):(z^4 + 8)] = - 15z + 3
+
+
+
+
+
+                                                       En la ecuación 2, la letra π podría ser una cantidad desconocida o bien, el número irracional pi
+
+                                                       que todos ya conocemos. En la ecuación 3, por ejemplo, intervienen tres letras: x, y, w pero
+
+                                                       todas ellas podrían (o no) ser cantidades desconocidas.]]></page><page Index="3"><![CDATA[¿Qué significa resolver una
+
+
+
+          ecuación?
+
+
+
+
+
+
+
+
+          Aquí revisaremos cómo resolver ecuaciones que tengan solamente un valor
+          desconocido. Al valor desconocido se lo llama incógnita, y se lo suele denotar
+          con x, pero puede representarse con cualquier otra letra.
+
+
+
+          Antes de ver cómo resolver ecuaciones, hay que entender qué significa esto.
+
+          Resolver una ecuación es simplemente hallar el valor (o los valores) de la
+
+          incógnita, de manera que la igualdad sea cierta si reemplazamos dicha
+
+          incógnita por cualquiera de los valores hallados.
+
+
+          Cualquier valor de la incógnita que haga cierta la igualdad se llama solución de la
+          ecuación. Dependiendo del caso, el valor buscado puede ser único, pueden existir
+
+          varios valores que hagan la igualdad cierta, o puede ocurrir que no exista ninguno.]]></page><page Index="4"><![CDATA[Tipos de soluciones
+
+
+
+
+
+
+
+          Una ecuación puede tener una única solución, varias o ninguna, y es llamada identidad cuando es verdadera para cualquier valor de la
+
+          incógnita.
+
+
+
+
+
+
+
+
+          Única solución                         Varias soluciones                      Ninguna solución                       Identidad
+
+
+          La ecuación tiene un solo              Existen varios valores que             No existe ningún valor que             La ecuación es verdadera
+
+          valor que satisface la igualdad.       hacen la igualdad cierta.              satisfaga la ecuación.                 para cualquier valor de la
+
+                                                                                                                               incógnita.
+
+
+          Ejemplos de ecuaciones y sus soluciones
+
+
+
+
+
+
+
+             Ecuación con una                                    Ecuación sin solución                              Identidad
+
+             solución                                            x + 2 = x + 1                                      x + 2 = x + 1 + 1
+
+
+
+             x + 1 = 2                                           Es fácil ver que una solución es x=1               Es una identidad y tendrá infinitas
+
+             Es fácil ver que una solución es x=1                pues, cuando la incógnita x toma el                soluciones, ya que cualquier número
+
+             pues, cuando la incógnita x toma el                 valor 1, en lo anterior se llega a una             real x aumentado en dos unidades
+
+             valor 1, en lo anterior se llega a una              igualdad cierta                                    resulta igual a ese mismo número x
+
+             igualdad cierta                                                                                        aumentado en una unidad y luego en
+                                                                                                                    otra.
+             1 + 1 = 2]]></page><page Index="5"><![CDATA[Verificación de soluciones
+
+
+
+
+
+
+
+          Afortunadamente, siempre es posible saber por nuestra cuenta si hemos resuelto correctamente una ecuación. A este proceso se lo conoce
+          como verificación. Veamos el paso a paso para verificar si x = 1 es  la solución de la siguiente ecuación:
+
+
+
+
+                            Paso 1: Reemplazar
+
+
+                1           Sustituir la incógnita por el valor de la supuesta solución en la ecuación original.
+
+
+                             x + 3 = 5 - x         1 + 3 = 5 - 1
+
+
+
+
+                            Paso 2: Resolver
+
+                2           Realizar las operaciones en ambos miembros de la ecuación.
+
+
+                             1 + 3 = 5 - 1         4 = 4
+
+
+
+
+                            Paso 3: Comparar
+
+
+                            Verificar si ambos miembros de la igualdad son iguales.
+                3
+
+                             4 = 4        En este caso verificamos que x = 1 es la solución de la ecuación.]]></page><page Index="6"><![CDATA[Ecuaciones equivalentes
+
+
+
+
+
+
+
+
+                                                          Definición                                             Símbolo
+
+
+                                                          Dos ecuaciones son equivalentes si                     Utilizaremos el símbolo   (que se lee "si
+
+                                                          tienen el mismo conjunto de soluciones.                y solo si") para conectar dos ecuaciones
+                                                                                                                 que sean equivalentes.
+
+
+
+
+
+
+                                                          Ejemplo
+
+
+                                                          Retomemos la sencilla ecuación x + 3 = 5 - x de la que ya sabemos que x = 1 es una
+
+                                                          solución, porque lo hemos verificado recién. Esa ecuación es equivalente a 2x + 3 = 5
+                                                          pues x=1 también es solución de ella. Y a la vez todas son también equivalentes a la
+
+                                                          ecuación 2x = 5 - 3. Entonces podemos expresar:
+
+
+                                                           x + 3 = 5 - x         2x + 3 = 5         2x = 5 - 3         2x = 2        x = 1
+
+
+
+
+
+
+                                                       La escritura “lineal” de esas equivalencias, a veces, es un                           x + 3 = 5 - x
+                                                       poco “pesada”. Por ello, es usual que escribamos esa “tira”
+
+                                                       de equivalencias en forma vertical y, muchas veces,                                    2x = 5 - 3
+
+                                                       omitiremos el símbolo   asumiendo que el lector                                          2x = 2
+
+                                                       sobreentiende que lo que se tiene no son ecuaciones iguales
+                                                       sino equivalentes.                                                                        x = 1
+
+
+
+
+                                                       Acá vale la pena observar que esas equivalencias no fueron elegidas al azar: cada una de
+
+                                                       ellas parece estar vinculada con la anterior, pero con una estructura más simple, hasta que la
+
+                                                       última de las ecuaciones es, de hecho, la solución.]]></page><page Index="7"><![CDATA[Transformar ecuaciones en otras
+
+
+
+                                                       equivalentes
+
+
+
+
+
+
+
+                                                       Esta idea de transformar ecuaciones en otras equivalentes es la idea central de la
+                                                       resolución de ecuaciones. La pregunta es, ¿Cómo encontrarlas? Si nos valiéramos de las
+
+                                                       representaciones con diagramas, podríamos hacer cosas como estas:
+
+
+
+
+                                                                 x                     x                    3                    =                    5
+
+
+
+
+
+                                                       Y  seguir  desarrollando  del  mismo  modo                                  x + 3 = 5 - x
+
+                                                       que lo hicimos en la unidad anterior hasta
+
+                                                       llegar  a  la  solución.  Es  decir,  con  estos                             2x = 5 - 3
+                                                       diagramas  estamos  representando  las                                         2x = 2
+
+                                                       mismas  equivalencias  que  ya  habíamos
+
+                                                       visto acá:                                                                      x = 1
+
+
+
+
+                                                       Hacer los diagramas es válido y es una estrategia útil para resolver. Pero después de resolver
+
+                                                       unas cuantas ecuaciones con esta estrategia notaremos que:
+
+
+                                                            Es costosa, es decir, toma tiempo,
+
+                                                            Nos obliga a tener que representar muy bien, aunque no sea a escala, la ecuación inicial,
+
+                                                            caso contrario la representación puede confundirnos
+
+                                                            Permite resolver ecuaciones de un cierto tipo muy limitado.
+
+
+
+
+                                                       La pregunta original, entonces, vuelve a aparecer: ¿Cómo transformar ecuaciones en otras
+                                                       equivalentes?]]></page><page Index="8"><![CDATA[La propiedad uniforme (nada "pasa")
+
+
+
+
+
+
+
+
+                  Definición                                                 Importancia
+
+
+                  Si se realiza la misma operación con el                    La propiedad uniforme es la base para
+
+                  mismo número en ambos miembros de                          resolver ecuaciones, y es la que justifica lo
+                  una ecuación, se mantiene la igualdad.                     que en lenguaje coloquial expresamos
+
+                                                                             como "pasar" algo de un lado a otro de la
+
+                                                                             igualdad.
+
+
+
+
+                  Toma de decisiones
+
+
+                  Es el usuario, el que está resolviendo el problema, el que deberá decidir qué operación
+                  realizar en ambos miembros de la ecuación para obtener una ecuación equivalente, pero
+
+                  más simple.]]></page><page Index="9"><![CDATA[Aplicación de la propiedad uniforme
+
+
+
+
+
+
+
+          Recordemos el ejemplo de x + 3 = 5 - x. En ese ejemplo, obtuvimos ecuaciones equivalentes que eran, cada vez, más simples.
+
+          Veamos cómo ahora obtenemos ecuaciones equivalentes por la propiedad uniforme, pero no resultan más simples.
+
+
+
+
+                                                                                                      Ecuación original
+
+
+
+                                                                                                      Dividimos por 18
+
+
+
+
+
+                                                                                                      Sumamos 2x
+
+
+
+
+
+
+
+
+
+                                                                                                      Restamos x²
+
+
+
+
+
+
+
+
+
+
+          Está claro que no cualquier operación simplifica la estructura de la ecuación original.
+
+
+          Aquí recuperamos, entonces, las propiedades de las operaciones que estudiamos en las unidades pasadas. El objetivo: “neutralizar”
+
+          para ir “despejando” la incógnita; el cómo: con los inversos.]]></page><page Index="10"><![CDATA[Despejando la incógnita
+
+
+
+
+
+
+
+          Tomemos como ejemplo la ecuación
+
+
+
+
+
+
+
+          Podríamos querer “pasar” el 15 sumando. Pero ¿por qué haríamos eso? Revisemos el ejemplo a continuación.
+
+
+
+
+
+
+
+
+
+                                   1                                                 2                                                 3
+
+
+
+
+
+             Paso 1: Ecuación original                          Paso 2: Sumar 15 a ambos                          Paso 3: Dividir por 6 ambos
+
+                                                                lados                                             lados
+             6(x-4)3-15=33
+                                                                6(x-4)3=48                                        (x-4)3=8
+
+
+
+
+
+
+
+                                   4                                                 5
+
+
+
+
+
+             Paso 4: Aplicar raíz cúbica a                      Paso 5: Sumar 4 a ambos lados
+
+             ambos lados                                        x=6
+
+
+             x-4=2
+
+
+
+
+
+
+
+
+
+
+          Propiedad uniforme                     Propiedad asociativa                   Existencia del opuesto                 Elemento neutro
+
+
+          Aplicada en cada paso de la            De la suma y del producto.             Para la suma y el producto             El 0 para la suma y el 1 para el
+          resolución.                                                                   (recíproco).                           producto.]]></page><page Index="11"><![CDATA[Verificación de la solución
+
+
+
+
+
+
+
+
+                            Paso 1: Reemplazar
+
+                1           Sustituir x por 6 en la ecuación original: 6(6-4)3-15=33
+
+
+
+
+
+
+
+
+                            Paso 2: Calcular
+
+
+                2           Realizar las operaciones: 6(2)3-15 = 48-15 = 33
+
+
+
+
+
+
+
+
+                            Paso 3: Comprobar
+
+                3           Verificar que 33 = 33]]></page><page Index="12"><![CDATA[Unicidad de la solución
+
+
+
+
+
+
+
+
+                                                                                     Garantía de unicidad                        Conclusión
+
+
+                                                                                     Cada paso en la resolución                  Como la ecuación final es
+
+                                                                                     da lugar a una ecuación                     x=6, y el único x que
+                                                                                     equivalente a la anterior,                  satisface esta igualdad es 6,
+
+                                                                                     garantizando que el conjunto                podemos concluir que x=6
+
+                                                                                     solución de la primera                      es la única solución de la
+                                                                                     ecuación es el mismo que el                 ecuación original 6(x-4)3-
+
+                                                                                     de la última.                               15=33.]]></page></pages></Search>
